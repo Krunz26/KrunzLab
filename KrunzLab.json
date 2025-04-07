@@ -1,0 +1,86 @@
+{
+  "name": "KrunzLab",
+  "identifier": "krunz.lab.repo",
+  "apps": [
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.box.hd.flix.drama.hub",
+      "localizedDescription": "",
+      "downloadURL": "https://my.microsoftpersonalcontent.com/personal/c4613b9e1cdbade3/_layouts/15/download.aspx?UniqueId=602138c3-f7d5-4e6f-ab5c-f91925ddf05d&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiJhODFkOGRmNy04OGM2LTRmYjAtOGIwNi05MTI0MjA3MDA2NzMiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3NDQwMTk2MTYifQ.yrKavkm6pwrcXN9benE7PzeiaX7RVB5KLqk9IAhlJcsKUICu4i1AIOVXwRJ52EdwvzZPxX5x34972EnhlZpNlMP2GCkczUt5ySCirrQ8oYvZiXL_zsjLAP5MAKhfpdpKA6ioW1ipiylZ4F1r1_z8YN7F4rEK_sHwxWIYfGIEdSJ43i4irkmZPmowpUpsWAAgQJqgiQ2Fmh3mTHibCA41gmjz6vzvm593Qr5xsPy9m8ZzTeR9DPw0GYe7h3PNHLhqYXNRLXknoeesznkBl6MtFE06yFi2dXNcD-asN0aKK54_eK_dd-xmBsBQfdFFhHqfNl33GLcnpuAe8nQRsGBxcMpiOB-Vsiiukbdrp3kGiSjhhM38Phx_KP5eUwnQ-LWRLYeUwByx4UqbD9D7zjDgwQ.tTW4SyLpTP4Wv4nSrqWXMdnUgZRecIGv5xmGA3Wuab4&ApiVersion=2.0&AVOverride=1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/7e/db/e27edb0a-a64b-480b-060d-231054de80ca/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "version": "9.0.32",
+      "versionDate": "2025-04-04",
+      "size": 80409376
+    },
+    {
+      "name": "HD Flix",
+      "bundleIdentifier": "com.spotify.client",
+      "localizedDescription": "",
+      "downloadURL": "https://my.microsoftpersonalcontent.com/personal/c4613b9e1cdbade3/_layouts/15/download.aspx?UniqueId=949700ee-8ca4-4205-9689-aecba18d2744&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiJhODFkOGRmNy04OGM2LTRmYjAtOGIwNi05MTI0MjA3MDA2NzMiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3NDQwMTgzMDUifQ.4oKCt8ollv-6fcYdOsRsuBRUslLaTpanjmaObGYQbHd7mvuqe9jAqUlMSrutsDdBOuJZUMeL9FxgZ7vMuLHtk4lP1sbk83GKUVe20Exx2uJGQUola6pPaye7UTerunMcjX0jVBo_qrC4z_Ib50wV9GtOU1gkh3TLux-4hsEAKHVaDqUdEXwPENzqxIENVHQ4sz4mpcO0oNySl3nRg1pVT_NPzcLNItSrILq-p_2XukGBik-DNsCoi-aQL6s4kp4LDC5a8GPSsz_nJK40bKREwOu1m52iN0tXWhmwu9FmL17Kmc4obEHMeQVV9qVkMgKCUbcp3mJJG5hItvsifjZ_-OQmt9fHxeIgun-qFzTis4glSV3fqSk855G4iDOe-88QInSj2BVPrDulvEDp4wCMNg.mjZ5rt2XeoBrSFbV0hW1q3WQoJOVQRrxXFocCqwcK6Q&ApiVersion=2.0&AVOverride=1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/b6/91/4eb691d9-2336-479e-3e1e-eecab0fbcbaf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "version": "3.0",
+      "versionDate": "2025-04-03",
+      "size": 34965107
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "localizedDescription": "",
+      "downloadURL": "https://my.microsoftpersonalcontent.com/personal/c4613b9e1cdbade3/_layouts/15/download.aspx?UniqueId=05322481-521d-405b-8091-abe60061e04f&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiJhODFkOGRmNy04OGM2LTRmYjAtOGIwNi05MTI0MjA3MDA2NzMiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3NDQwMTg3NTAifQ.IYNeXxhxYDA2RHsGQCMInkXZ-pYgnJP3pfDC0nOrRk2cAeoRwZ66WrqwaLUgP22PVXWF723RgbdR4WZAuw1istGLmY_JCAKxcQcMGWsM32lbeAUyiVKQMi33H4k2ZDvFdV7Z7rUqsvSXKQTxiKdPVkYzHe2gfkjzCA88Byms_p5W3_St760R-OTLLRebaMdcF2PecTS1AHbrAPgSOPZWtOT8tPsWrluvnzKIyhBv4QT9A4wlvlo5ZkI7hRV9Tp6bESuxptAQl_4MSby7CXciIu6s8EYkcMWD-jClWqvbpQPSolNN0tKMS8QQPTZcHB2b5gbDCMiq155fERT4Rq65ijp6zmcLChmFwKaHkUW25QmYowFZLl_ARQzQ-aULg8gF8EDWkoGIX_7sRrawbD-BVQ.iiXu6ZvaMwekLOHc99juLFKYjXRi-Vond74Y4Z0fdoE&ApiVersion=2.0&AVOverride=1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/34/8a/36348afe-9ec4-ade1-46b7-77588c8c9493/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "version": "375.0.0",
+      "versionDate": "2025-03-31",
+      "size": 177402963
+    },
+    {
+      "name": "Lightroom",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "localizedDescription": "",
+      "downloadURL": "https://my.microsoftpersonalcontent.com/personal/c4613b9e1cdbade3/_layouts/15/download.aspx?UniqueId=1951d036-ac95-48c6-858d-2c26f659d84c&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiJhODFkOGRmNy04OGM2LTRmYjAtOGIwNi05MTI0MjA3MDA2NzMiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3NDQwMTkwMjgifQ.hkROX3yugn26joMq8B9-vB8S5GMgNCeYTDF6jG8dd4UxtoGbg6yM6YtHZ0hSN8tpWoN-Lhlk85ZGM4_xLLGSWdkRO4XPVXxqqfl8EIOcdf77iddx5BFN67G_WEBerH4T8r9ir29lc8VbUx1_J3T13-_f02sCpPLGzmo7PmzqkbTizo75EIlnHa0_gCs2s8IiMbwUQTxuwpitPrO4rr1you7hsDPG_3xTff6RueDW-8ZZ5qN-d8Vgwp38sTdsVfM3wpmBkVkhCeJPkF37IwJHgnu-TYKzF-Dyk8gkK2FFPXF2W32C0KhsGlFtLc9M6DNaMaPbM2aldMeLD0ldILMeg161zsvMaItaHdKIZDjiBl9c6OFvWJMIqjJ64Oq1dMMnQYob37-K79PGtCMpctDDcA.FV0uBfv_p6BGnD_avYV8qaGxPLMRTiDZV7hI68rIYQo&ApiVersion=2.0&AVOverride=1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/58/49/ff58491b-ec46-6dbd-28ec-3318862e46b3/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
+      "version": "10.2.3",
+      "versionDate": "2025-03-17",
+      "size": 186883739
+    },
+    {
+      "name": "Truecaller",
+      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+      "localizedDescription": "",
+      "downloadURL": "https://my.microsoftpersonalcontent.com/personal/c4613b9e1cdbade3/_layouts/15/download.aspx?UniqueId=9a6aa3b2-3780-449d-b980-8f3a4b1bf6ee&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiJhODFkOGRmNy04OGM2LTRmYjAtOGIwNi05MTI0MjA3MDA2NzMiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3NDQwMTg2NTYifQ.mRlBdapO_psI0gW02hiVUl9Hwc9lfqjahL1_kH77Ut5JRnGKqlQi9R8LbQdtI_zuYmyLUDBeq0bO6CBquRR5GCYaAJa8jSSRrvehAD7WYykh46LStW7sIA1HoFPfZ4hhALyFTCqk6VCsH0O06eV5fmOrXKRAswKDw4h1X7KfreeYzfP0VTSa5wsFQbGxyDUjunzz7jmid_Z5oqc5_Ki9Ach1xx3gHF_B3OjCFCi7bOTojh86vmTCUvXPaD1MSBxP9RWl-LJs0oaGpjz9YUXcoekyQ9SgGH0-2GAzuvNl9vNiOzTyCaUiehYUAVgtiyrUqDzIGynDt859P-NyTOcc_6bVS2HF3L7mfBjRvc_HPuk5XGwEb3oWgitvMVxtmLY7nW-gSJtdzhwultkIRfbsOA.9WBXnf862ESt2OGG47MgvsRpeyXVIsljhy0GcvhpSKI&ApiVersion=2.0&AVOverride=1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/32/9b/29329b90-828f-381a-c808-ac1b4c49aa49/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "version": "14.10.5",
+      "versionDate": "2025-03-31",
+      "size": 106117382
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "localizedDescription": "",
+      "downloadURL": "https://my.microsoftpersonalcontent.com/personal/c4613b9e1cdbade3/_layouts/15/download.aspx?UniqueId=10fceefe-2b87-41b4-b434-3917da429565&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiJhODFkOGRmNy04OGM2LTRmYjAtOGIwNi05MTI0MjA3MDA2NzMiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3NDQwMTg0OTcifQ.nd57tlcxCXw1yZWpyN_HZDHi-qekQ4HvbWakO0LrkVmRf-A9Yth_t8eIychoa9120e0PsuHfc8lNF-TrwfZx9AWuoDaXqefsueQ4j3RVodd2inMmOtoRUq4VLFWOhscbe7AuFMsQYCOXrOsT0odNiE3cTTwc9hOXb3UujIvL_6R2XYp-u2wWgUvGddrY-Ax5tcLQGIj7Nc-P9CEcXjHQLQ7GvO-ap7w09YdbO22Jr-u0VvAWd-_11dhqFoQN3v0WEpLMBbpFg0a-zhi0tLdsTS4O-k3kQblgkHqPUy3BdSWFaCBGfJ53utTSASIRTMuWD_UqYxRxivoFaq4cAtrOtp9xf-DVfCWH2sg11Pcj3luL4I4kuMoCvWtDxL1x9EEiiWQKJF3G6yGg-591pE6TPA.eaIsXy5JfgMnFnequzT5j6TgBUG6UxQKsRhHd3adAso&ApiVersion=2.0&AVOverride=1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/1c/85/841c85ff-8117-8921-c3ac-d1b60489a5a7/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg",
+      "version": "19.47.7",
+      "versionDate": "2024-12-01",
+      "size": 119218991
+    },
+    {
+      "name": "‎WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "localizedDescription": "",
+      "downloadURL": "https://my.microsoftpersonalcontent.com/personal/c4613b9e1cdbade3/_layouts/15/download.aspx?UniqueId=be37bd29-d875-4111-a65c-742ae244dbb0&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiJhODFkOGRmNy04OGM2LTRmYjAtOGIwNi05MTI0MjA3MDA2NzMiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3NDQwMTg1NjUifQ.Qanvxd0dfqBCwjy0o6deDXdyHeZEHjeZYjqHAruTkjHkstmyb1nU-7q0CzssrNMGxPW9y9n1Qs4R-E6Kt5pATDpzzo3IwMuhD3sF1pOuP9vlhtBkzURh9QvU2dQOGYEXW_pon8w0zFFrERxginWRskGJ4shdAB-40BZHz393BGL3mXd4iic0fJAKCeGW_Ky2zLyqUpFxNMFpr-byJoW5byl_Mry-isoOh_ue7cYCSxw7Fx1sh0T7qDuhiLXC30MwKPhaj08e0RoNhgOBnHI7SPPYcVkcOwocLP7MwqX-7AOCD_w0eDF6YvjWLYUyvhAvbBnfimuah1uprLXTpD3JoD3cQaa49Xdz1sr8oh8zn67BT5uEuHyt3Q2O5NMEVaTJZMzGssJFWTScvrY8ps2umg.jrs8dX3dLdQ18K0kEHEDzhns59rK8Q6olhpHFUTr01w&ApiVersion=2.0&AVOverride=1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/5c/9d/a15c9da5-dcb4-ab76-8682-ef9fee94e1c8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "version": "25.9.10",
+      "versionDate": "2025-03-29",
+      "size": 115172671
+    },
+    {
+      "name": "‎WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "localizedDescription": "",
+      "downloadURL": "https://my.microsoftpersonalcontent.com/personal/c4613b9e1cdbade3/_layouts/15/download.aspx?UniqueId=abeaea78-fec1-4158-b324-929c7eee4b4c&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiJhODFkOGRmNy04OGM2LTRmYjAtOGIwNi05MTI0MjA3MDA2NzMiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3NDQwMTg1OTcifQ.72za6JteR3KeLJ-NgIT2MuZkHc3JkqlJebrICvYzXb4F4k9Sfdi1MUH5nz5lGXQ6yssW9H9Xn2P4ba4-gQNKgbkkLa3wChGVaGLJhd96jIto8PPB9Xa4Qpee9S2a90c4ngaG33Mr1c4yju39CEjeRI7A2ORyzz-o7RCyENE3XAbRFrGpJEqfgsNdJQCy82LKA9H1UDstdYpSnkSCQwOadh-nqyA9DxZ4qpPV2Rfp4qyLu7zVN4ksqKy_P2-bywNGv1PJyVIEJzef_r4jpdpaiMIP75lI-Q6E7VlADwaA-rNsGBElGPg2dUYNCdjToWCagM0YMYNb3lMnBPDtwyCRquKVUwd3_LqtzyIxL4rAN4rNt7EbbRdsWJeYoXXwOeyCtYNn7X5_jdXn-3F9ti87ww.fcbmNf_1Tu8IqDRddxpFHYLkYpJ8nQtCMFf6O_hZsEw&ApiVersion=2.0&AVOverride=1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/5c/9d/a15c9da5-dcb4-ab76-8682-ef9fee94e1c8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "version": "25.9.10",
+      "versionDate": "2025-03-29",
+      "size": 118221587
+    }
+  ]
+}
