@@ -26,11 +26,11 @@
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "localizedDescription": "",
-      "downloadURL": "https://www.dropbox.com/scl/fi/dd049qd4ge3w5c36wxzrz/Instagram_v375.0.0_RC.ipa?rlkey=d1akg2rmf16l5ddlteqhhyp37&st=k5lkxus2&dl=1",
+      "downloadURL": "https://www.dropbox.com/scl/fi/fl25arum020yd80mqlvjq/Instagram_v376.0.0_RC.ipa?rlkey=3pl1aj1diqckoczmrvgrb0xxv&st=zz9c8v1y&dl=1",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/34/8a/36348afe-9ec4-ade1-46b7-77588c8c9493/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "version": "375.0.0",
-      "versionDate": "2025-03-31",
-      "size": 177402963
+      "version": "376.0.0",
+      "versionDate": "2025-04-08",
+      "size": 217142949
     },
     {
       "name": "Lightroom",
@@ -46,11 +46,11 @@
       "name": "Truecaller",
       "bundleIdentifier": "com.truesoftware.TrueCallerOther",
       "localizedDescription": "",
-      "downloadURL": "https://www.dropbox.com/scl/fi/6qejkthb2bwuj9bipu7ds/Truecaller_v14.10.ipa?rlkey=sjj0490p3s7l4l6u4lyllzuyz&st=1kblmgb7&dl=1",
+      "downloadURL": "https://www.dropbox.com/scl/fi/yc3p3v5htzij39mz6inuv/Truecaller_v14.12.ipa?rlkey=zg8vus5q6ein1vqbu2o1cxkj7&st=jk4w6cjs&dl=1",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/32/9b/29329b90-828f-381a-c808-ac1b4c49aa49/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "version": "14.10.5",
-      "versionDate": "2025-03-31",
-      "size": 106117382
+      "version": "14.12.5",
+      "versionDate": "2025-04-14",
+      "size": 106345296
     },
     {
       "name": "YouTube",
@@ -66,21 +66,21 @@
       "name": "‎WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "localizedDescription": "",
-      "downloadURL": "https://www.dropbox.com/scl/fi/985b64vqtuzsarfvq10u2/WhatsApp_v25.9.10_WL.ipa?rlkey=zcktv3pyvux10wxz86g9y9fsk&st=fmfjsvw6&dl=1",
+      "downloadURL": "https://www.dropbox.com/scl/fi/tq5i0xcwwo07fels8or7g/WhatsApp_v25.10.10_WL.ipa?rlkey=6qdbromoutrig0csuu6r4h8p6&st=buoki6qw&dl=1",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/5c/9d/a15c9da5-dcb4-ab76-8682-ef9fee94e1c8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "version": "25.9.10",
-      "versionDate": "2025-03-29",
-      "size": 115172671
+      "version": "25.10.10",
+      "versionDate": "2025-04-08",
+      "size": 115852735
     },
     {
       "name": "‎WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "localizedDescription": "",
-      "downloadURL": "https://www.dropbox.com/scl/fi/qhedjx7zq059475t8suqs/WhatsApp_v25.9.10_WC.ipa?rlkey=xgf5cfslf1bcupbbs1j4iqgtt&st=cuiioh41&dl=1",
+      "downloadURL": "https://www.dropbox.com/scl/fi/ugtjj902n05439tlsqnms/WhatsApp_v25.10.10_WC.ipa?rlkey=yv3npc07q4wxyjemyya2d9sze&st=yzalywf9&dl=1",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/5c/9d/a15c9da5-dcb4-ab76-8682-ef9fee94e1c8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "version": "25.9.10",
-      "versionDate": "2025-03-29",
-      "size": 118221587
+      "version": "25.10.10",
+      "versionDate": "2025-04-08",
+      "size": 118827031
     }
   ]
 }
